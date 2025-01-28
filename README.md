@@ -1,1 +1,1 @@
-# Loan-Eligibility-Prediction
+This project is a Loan Eligibility Prediction System implemented in Python. It uses machine learning techniques, including Decision Tree Classifier and Naive Bayes Algorithm, to predict whether an applicant qualifies for a loan based on various financial and demographic attributes. The project demonstrates the end-to-end process of building, training, and deploying a predictive model for loan eligibility.
